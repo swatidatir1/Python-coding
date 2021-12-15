@@ -1,9 +1,5 @@
 #import os
 #os.system('clear')
+print ("Hello World!")
 
-First_name = {
-    "Mother" : "Swati",
-    "Baby" :  "sayujya",
-    "Father": "Suyog"
-}
-print(First_name["Mother"])
+print (type("Hello World!"))
