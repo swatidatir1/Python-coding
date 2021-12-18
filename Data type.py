@@ -1,0 +1,7 @@
+print (type(0.0))
+print (type('swati'))
+print(type({}))
+print(type([]))
+print(type(()))
+print(type(20))
+print(type(True))
